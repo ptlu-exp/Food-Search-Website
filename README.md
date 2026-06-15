@@ -12,3 +12,6 @@ However, collecting nutrition information for tens of thousands of food products
 This project provides a web-based nutrition search tool that helps users find food products by applying filters such as calories, fat, etc. within selected categories.
 To enhance the accessibility and efficiency of large-scale nutrition data retrieval, an interactive, user-guided filtering framework is developed to replace traditional table-based browsing. 
 This framework optimizes the query process by utilizing a sequence of constrained inputs, eliminating the need for manual scanning from large-scale nutrition datasets.
+
+PostgreSQL in the Render platform (https://render.com/) serves as the database engine storing nutrition information tables alongside the minimum and maximum criteria for each category.
+The database contains 26,164 food products and 100 food categories.
