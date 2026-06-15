@@ -2,6 +2,7 @@
 The Food Search Website:
 https://nutrix-foodsearch.onrender.com/
 
+## Beackground
 Finding the right food in a supermarket for someone's dietary needs is challenging due to the large variety of food products.
 One possible solution is to build a nutrition information dataset and a food search engine.
 This engine would allow consumers to find their desired food product by placing constraints on the nutrition factors and ranking the obtained results based on their criteria.
